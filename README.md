@@ -11,7 +11,7 @@ Library Management system is developed using C++ Programming Language and differ
 
 ### Prerequisites
 
-* C++ IDE (C++11 or higher) and concepts of OOPs
+* C++ IDE (C++11 or higher) and concepts of OOPs such as virtual function, operator overloading, inheritance
 
 ### Running
 
